@@ -1,0 +1,5 @@
+com\example\particlevisualization\ExportManagerTest.class
+com\example\particlevisualization\ConfigLoaderTest.class
+com\example\particlevisualization\SettingsUITest.class
+com\example\particlevisualization\ConfigLoaderEdgeCaseTest.class
+com\example\particlevisualization\ParticleAppTest.class
